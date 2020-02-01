@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 725
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 54
+  controlID: 67
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 292
     height: 725
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 284
     height: 454
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1440
     height: 775
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -216,10 +216,10 @@ MonoBehaviour:
     y: 0
     width: 1148
     height: 725
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 55
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 0
     width: 1148
     height: 454
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 56
+  controlID: 119
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RPGTALK/Demo/Talks
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RPGTALK/Demo/Talks
+  - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/twnia/ggj2020
+  m_LastProjectPath: /Users/twnia/Documents/GitHub/GGJ2020cy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74}
-    m_SelectedIDs: 18700000
-    m_LastClickedID: 28696
-    m_ExpandedIDs: 00000000683d00007e3d0000966c00001e7000006670000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f63f0000
+    m_LastClickedID: 16374
+    m_ExpandedIDs: 000000002c3e00002e3e0000303e0000f83f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000002c3e00002e3e0000303e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -502,23 +502,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84960000
-      m_LastClickedID: 38532
-      m_ExpandedIDs: dc93ffffe893fffffa93ffffbc96ffffe096ffffb898ffff3299ffffd49affffe29afffff29affff7c9bffff709cffff509dffffda9dffff5e9effffe69effffa69fffff8ea2ffff90a2ffff92a2ffff94a2ffff96a2ffff98a2ffff30aaffff24abffff52acffff0aadffff14adffff22adffffd0adffffd6adffff6cafffffbcafffffd0afffffdeafffffeaafffffdcd3fffff6dbffff06e6ffff7ee9ffffe0edffff5aeeffff4ef3ffff30f4ffff72f4ffff62faffff72faffff7cfaffff28fbffff6c840000808400008a8a0000e48a00001e8b0000508b0000b49200000e93000020930000489300005a9300006c9300007a930000c6930000a4950000fe950000389600006a960000
+      m_SelectedIDs: 5a460000
+      m_LastClickedID: 0
+      m_ExpandedIDs: f0c3ffff3ac7ffff5cc7ffff76caffff98e7ffff1ee8ffff68e8ffff9ee9fffff2efffff28f0ffff70f5ffff8af5ffffa6f5ffffb6f6ffff4cfaffff62faffff78faffffe2faffff6efbffff5247000060470000624800006c4800006e550000a6550000b0550000ba550000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: GameObject
-        m_OriginalName: GameObject
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -2366
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 444.4971, y: -263.37317, z: -850.2527}
+    m_Target: {x: 954.4782, y: 396.43106, z: -131.51958}
     speed: 2
-    m_Value: {x: 444.4971, y: -263.37317, z: -850.2527}
+    m_Value: {x: 954.4782, y: 396.43106, z: -131.51958}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -616,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3493.6443
+    m_Target: 865.80707
     speed: 2
-    m_Value: 3493.6443
+    m_Value: 865.80707
   m_Ortho:
     m_Target: 1
     speed: 2

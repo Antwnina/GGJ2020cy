@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/RPGTALK/Demo/Scenes/2-ComplexDemo 1.unity
+- path: Assets/Scenes/menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
