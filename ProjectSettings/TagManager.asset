@@ -5,8 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - floor
-  - map
-  - AoratoMap
   layers:
   - Default
   - TransparentFX
