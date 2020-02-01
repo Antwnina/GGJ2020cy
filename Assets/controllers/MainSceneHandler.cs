@@ -13,6 +13,7 @@ public class MainSceneHandler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        gameObject.GetComponent<witchHouseClicked>();
 
 
     }
