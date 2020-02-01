@@ -84,10 +84,7 @@
      <Compile Include="Assets\controllers\tavernClicked.cs" />
      <Compile Include="Assets\controllers\witchHouseClicked.cs" />
      <Compile Include="Assets\scripts\DialogueSystem.cs" />
-     <Compile Include="Assets\scripts\MainMenu.cs" />
      <Compile Include="Assets\scripts\NPC.cs" />
-     <Compile Include="Assets\scripts\loadScene.cs" />
-     <Compile Include="Assets\scripts\quit.cs" />
      <None Include="Assets\RPGTALK\Demo\Talks\DemoTagsText.txt" />
      <None Include="Assets\RPGTALK\Demo\Talks\DemoTimeline.txt" />
      <None Include="Assets\RPGTALK\ReadMe.txt" />
